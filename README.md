@@ -6,20 +6,20 @@ Welcome to **Insane Banners**, the ultimate tool for creating custom ASCII art b
 
 To get started, clone the repository using the following command:
 
-bash
+
 git clone https://github.com/dionabazi/Insane-Banners.git
 
 📄 How to Run
 
     Navigate to the project directory:
 
-    bash
+    
 
 cd Insane-Banners
 
 Execute the banner generator script to create a custom banner:
 
-bash
+
 
 python3 banner_generator.py
 
