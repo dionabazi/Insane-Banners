@@ -58,8 +58,9 @@ Screenshots
 - **Friendly Tone**: Encouraging language to foster community and collaboration.
 - **Visual Elements**: Screenshots for a visual appeal.
 
-☕ Tip Me a Coffee!
+![bmc-button](https://github.com/user-attachments/assets/3ac2455a-7712-4ecc-bbee-81ec512c2c08)
+☕ Buy Me a Coffee!
 
-👉 Tip me a coffee here! 👉 https://ko-fi.com/dionabazi
+👉 Buy me a coffee here! 👉 https://ko-fi.com/dionabazi
 
 Thank you for your support! 💕
