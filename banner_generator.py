@@ -1,18 +1,27 @@
 import pyfiglet
+import time
+import sys
 
 def generate_banner(text, font='slant'):
     try:
-        # Generate the banner with the specified font
         banner = pyfiglet.figlet_format(text, font=font)
         return banner
     except pyfiglet.FontNotFound:
         return f"Error: The font '{font}' is not available."
 
+def animate_text(text, delay=0.01):
+    for char in text:
+        # Print the character without newline and flush the output
+        print(char, end='', flush=True)
+        time.sleep(delay)
+    print()  # Move to the next line after finishing
+
 def main():
-    # Display a default banner with your name "dionabazi"
-    ascii_text = pyfiglet.figlet_format("dionabazi", font='slant')
+    # Display a default banner with your name "dionabazi" with animation
     print("\nBy:\n")
-    print(ascii_text)
+    animated_text = generate_banner("dionabazi", font='slant')
+    for line in animated_text.splitlines():
+        animate_text(line)  # Animate each line
 
     # Proceed with the rest of the script
     text = input("Enter the text for the banner: ")
