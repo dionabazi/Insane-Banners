@@ -1,7 +1,7 @@
 # Insane-Banners
 This is a cool Banner that you can make banner by typing whatever u want and some custom banners made by me. Enjoy!
 
-INSTALLATION: https://github.com/dionabazi/Insane-Banners.git
+INSTALLATION: git clone https://github.com/dionabazi/Insane-Banners.git
 
 
 cd Insane-Banners
