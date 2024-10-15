@@ -60,6 +60,6 @@ Screenshots
 
 ☕ Tip Me a Coffee!
 
-👉 Tip me a coffee here! 👈
+👉 Tip me a coffee here! 👉 https://ko-fi.com/dionabazi
 
 Thank you for your support! 💕
