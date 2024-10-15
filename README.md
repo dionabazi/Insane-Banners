@@ -14,6 +14,11 @@ python3 AK47.py and others except banner_generator.py are custom ASCII Arts. ENJ
 
 ![Screenshot_2024-10-15_17_03_02](https://github.com/user-attachments/assets/47aef8bf-1421-4932-9d32-39bad39845bc)
 
+
+
+![Screenshot_2024-10-15_17_04_30](https://github.com/user-attachments/assets/5a131aef-3586-4361-8e26-25a8ea18434f)
+
+
 THIS ONLY SUPPORTS LINUX!
 
 
