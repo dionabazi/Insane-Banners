@@ -14,8 +14,10 @@ git clone https://github.com/dionabazi/Insane-Banners.git
     Navigate to the project directory:
 
     
+    cd Insane-Banners
 
-cd Insane-Banners
+
+    
 
 Execute the banner generator script to create a custom banner:
 
