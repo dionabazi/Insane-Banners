@@ -11,6 +11,9 @@ And run python3 banner_generator.py to create a banner with your name or whateve
 
 python3 AK47.py and others except banner_generator.py are custom ASCII Arts. ENJOY!
 
+
+![Screenshot_2024-10-15_17_03_02](https://github.com/user-attachments/assets/47aef8bf-1421-4932-9d32-39bad39845bc)
+
 THIS ONLY SUPPORTS LINUX!
 
 
