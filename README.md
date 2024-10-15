@@ -58,3 +58,8 @@ Screenshots
 - **Friendly Tone**: Encouraging language to foster community and collaboration.
 - **Visual Elements**: Screenshots for a visual appeal.
 
+☕ Tip Me a Coffee!
+
+👉 Tip me a coffee here! 👈
+
+Thank you for your support! 💕
