@@ -1,33 +1,58 @@
-# Insane-Banners
-This is a cool Banner that you can make banner by typing whatever u want and some custom banners made by me. Enjoy!
+# Insane Banners 🎉
 
-INSTALLATION: git clone https://github.com/dionabazi/Insane-Banners.git
+Welcome to **Insane Banners**, the ultimate tool for creating custom ASCII art banners effortlessly! Whether you want to display your name, a message, or any creative text, this repository provides you with the flexibility to do so. Enjoy the creativity!
 
+## 🚀 Installation
+
+To get started, clone the repository using the following command:
+
+bash
+git clone https://github.com/dionabazi/Insane-Banners.git
+
+📄 How to Run
+
+    Navigate to the project directory:
+
+    bash
 
 cd Insane-Banners
 
+Execute the banner generator script to create a custom banner:
 
-And run python3 banner_generator.py to create a banner with your name or whatever custom name you want to put in, and you can choose some banner fonts to look cooler.
+bash
 
-python3 AK47.py and others except banner_generator.py are custom ASCII Arts. ENJOY!
+python3 banner_generator.py
 
-
-THIS ONLY SUPPORTS LINUX!
-
-
-MORE ASCII ARTS COMING SOON!
+    Input your desired text and choose from a variety of fonts to enhance your banner’s appearance.
 
 
-ALL .py FILES RUNS WITH PYTHON3 !!
+    python3 AK47.py
+
+        Other scripts in this repository also provide unique ASCII art. Enjoy!
+
+    Note: This tool is currently supported on Linux only.
+
+🔜 Upcoming Features
+
+    More ASCII art styles coming soon! Stay tuned for updates.
+
+⚠️ Important
+
+All .py files require Python 3 to run. Ensure you have it installed.
+
+
+Screenshots
+
+![Screenshot_2024-10-15_18_05_37](https://github.com/user-attachments/assets/8cab8350-4d27-4ec3-b49f-cff6d063d917)
+
+
+![Screenshot_2024-10-15_18_05_16](https://github.com/user-attachments/assets/a4f83969-c862-40c5-ab8e-8939cff41f38)
 
 
 
-![Screenshot_2024-10-15_17_03_02](https://github.com/user-attachments/assets/47aef8bf-1421-4932-9d32-39bad39845bc)
+### Key Features:
+- **Engaging Title**: A lively introduction to grab attention.
+- **Structured Sections**: Clearly defined sections for installation, usage, upcoming features, and important notes.
+- **Friendly Tone**: Encouraging language to foster community and collaboration.
+- **Visual Elements**: Screenshots for a visual appeal.
 
-
-
-![Screenshot_2024-10-15_17_04_30](https://github.com/user-attachments/assets/5a131aef-3586-4361-8e26-25a8ea18434f)
-
-
-
-![Screenshot_2024-10-15_17_05_25](https://github.com/user-attachments/assets/dd977eb8-94dc-409c-8877-c787a33b466a)
