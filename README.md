@@ -58,7 +58,7 @@ Screenshots
 - **Friendly Tone**: Encouraging language to foster community and collaboration.
 - **Visual Elements**: Screenshots for a visual appeal.
 
-![bmc-button](https://github.com/user-attachments/assets/3ac2455a-7712-4ecc-bbee-81ec512c2c08)
+![bmc-button (1)](https://github.com/user-attachments/assets/a961804c-0d46-4e1a-bc02-64e9dde1cedc)
 ☕ Buy Me a Coffee!
 
 👉 Buy me a coffee here! 👉 https://ko-fi.com/dionabazi
